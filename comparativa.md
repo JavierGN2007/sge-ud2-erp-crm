@@ -1,21 +1,28 @@
-#**SECCIÓN 2: LICENCIA Y MODELOS**
+# SECCIÓN 1: DATOS
+* **Propietario:** JavierGN2007
+* **Propietario:** 15.- Agencia de viajes "Rutas del Mundo"
+* **Palabra del día:** Compañero
 
-#**Diferencia entre Software Libre, Código Abierto y Propietario**
+
+
+# SECCIÓN 2: LICENCIA Y MODELOS
+
+## Diferencia entre Software Libre, Código Abierto y Propietario
 * **Software Libre (FSF):** Se centra en las libertades del usuario, otorgando libertades de uso, estudio, modificación y distribución.
 * **Código Abierto (OSI):** Es un modelo que está basado en la colaboración abierta, siendo su código fuente consultable, modificable y distribuible por cualquiera, aunque su software puede implicar costes adicionales
 * **Software Propietario:** El código fuente está cerrado y es exclusivo para una empresa o autor. El usuario tendría que comprar la licencia de uso, pero sin poder modificarlo o compartirlo
 
-#**¿Por qué "libre" no significa "gratuito"?**
+## ¿Por qué "libre" no significa "gratuito"?
 
 En inglés es usada la palabra "Free" para referirse a este tipo de software pero "Free", en este caso, se traduciría a "libertad", no a "Free" de precio. Por eso existe la frase "Free as in speech, not as in free beer".
 
-#**¿Qué implica en la práctica una edición Community frente a una Enterprise?**
+## ¿Qué implica en la práctica una edición Community frente a una Enterprise?
 
 La **edición Community** es la versión gratuita de código abierto, hecha para desarrolladores o estudiantes, la cual no incluye funciones avanzadas de seguridad o escalabilidad y el soporte técnico lo llevan los foros de la comunidad. Por otra parte, la **edición Enterprise** es una versión de pago hecha para grandes empresas, incluyendo el código base con módulos avanzados y con un buen soporte técnico
 
 
 
-#**SECCIÓN 3: FICHAS TÉCNICAS**
+# SECCIÓN 3: FICHAS TÉCNICAS
 
 * **[Odoo Community](https://www.odoo.com/es_ES/page/community) (ERP Libre):**
   * **Licencia exacta:** Licencia LGPLv3
@@ -57,16 +64,37 @@ La **edición Community** es la versión gratuita de código abierto, hecha para
 
 
 
-#**Sección 4: Fe de erratas del tema 2**
+# SECCIÓN 4: FE DE ERRATAS DEL TEMA 2
 
-#**Error 1**
+## Error 1
 
 En el tema, en la página 7, se puede leer que, para Odoo, la versión actual es la 14. Esto sería un error debido a que, actualmente, la versión de Odoo es la 19. El tema está desactualizado.
 
 **[Fuente 1](https://www.odoo.com/es_ES/page/release-notes)**
 
-#**Error 2**
+## Error 2
 
 En el tema, en la página 6, se puede leer que la versión actual de ERPNext es la 15. Esto sería un error debido a que, actualmente, la versión de ERPNext es la 16. El tema está desactualizado.
 
 **[Fuente 2](https://github.com/frappe/erpnext/releases)**
+
+
+
+# SECCIÓN 5: MATRIZ DE DECISIONES
+
+* **Coste de licencias:** Odoo Community ha recibido un 5 debido a que es gratuito. Microsoft Dynamics 365 ha recibido un 4 porque, aunque requiere de una suscripción, le he dado esa nota por su estabilidad. Por otra parte, Zoho CRM ha recibido un 2 debido a que, si la empresa quiere añadir más usuarios, el coste de las suscripciones podría aumentar.
+
+* **Facilidad de instalación:** Odoo Community ha recibido un 3 debido a que requiere una instalación local en servidores propios. Microsoft Dynamics 365 y Zoho CRM han recibido un 5 debido a que su instalación es inmediata, al ser plataformas nativas en la nube.
+
+* **Soporte técnico:** Odoo Community ha recibido un 2 debido a que carece de soporte técnico oficial por parte de su creador. Microsoft Dynamics y Zoho CRM han recibido un 5 debido a que, al ser software propietarios de pago, ambos posee acuerdos de nivel de servicio con soporte técnico oficial permanente.
+
+* **Adaptabilidad:** Odoo Community ha recibido un 4 debido a que, al ser su código fuente abierto, permite modificar la plataforma a los flujos específicos de la empresa. Microsoft Dynamics 365 y Zoho CRM han recibido un 3 debido a que, al ser de código cerrado, las modificaciones están algo limitadas.
+
+* **Seguridad de datos:** Odoo Community ha recibido un 3 debido a que la seguridad de este depende del equipo técnico interno. Microsoft Dynamics 365 ha recibido un 5 debido a que cuenta con la infraestructura cloud de Microsoft Azure. Zoho CRM ha recibido un 4 debido a que ofrece un entorno seguro gestionado en sus centros de datos en la nube.
+
+* **Acceso móvil:** Odoo Community ha recibido un 3 debido a que permite acceso móvil pero requiere configuración de forma manual. Microsoft Dynamics 365 y Zoho CRM han recibido un 5 debido a que disponen de aplicaciones móviles nativas optimizadas.
+
+#**Total ponderadas**
+* **Odoo Community:** 3.55
+* **Microsoft Dynamics 365:** 4.35
+* **Zoho CRM:** 3.75

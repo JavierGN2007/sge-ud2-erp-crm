@@ -54,3 +54,19 @@ La **edición Community** es la versión gratuita de código abierto, hecha para
   * **Requisitos:** Conexión estable y continua, y un navegador web compatible con ES6 y TLS v1.2
 
   **Fecha de Consulta:** 23/09/2026
+
+
+
+#**Sección 4: Fe de erratas del tema 2**
+
+#**Error 1**
+
+En el tema, en la página 7, se puede leer que, para Odoo, la versión actual es la 14. Esto sería un error debido a que, actualmente, la versión de Odoo es la 19. El tema está desactualizado.
+
+**[Fuente 1](https://www.odoo.com/es_ES/page/release-notes)**
+
+#**Error 2**
+
+En el tema, en la página 6, se puede leer que la versión actual de ERPNext es la 15. Esto sería un error debido a que, actualmente, la versión de ERPNext es la 16. El tema está desactualizado.
+
+**[Fuente 2](https://github.com/frappe/erpnext/releases)**

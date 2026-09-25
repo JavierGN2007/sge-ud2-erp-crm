@@ -20,6 +20,14 @@ En inglés es usada la palabra "Free" para referirse a este tipo de software per
 
 La **edición Community** es la versión gratuita de código abierto, hecha para desarrolladores o estudiantes, la cual no incluye funciones avanzadas de seguridad o escalabilidad y el soporte técnico lo llevan los foros de la comunidad. Por otra parte, la **edición Enterprise** es una versión de pago hecha para grandes empresas, incluyendo el código base con módulos avanzados y con un buen soporte técnico
 
+## Copyleft y AGPL
+
+Copyleft es una práctica legal que permite a cualquier persona copiar, modificar y compartir una obra creativa. 
+
+AGPL es una licencia de software libre y de código abierto que obliga a compartir el código fuente modificado cuando el programa se utiliza a través de una red.
+
+Tanto copyleft como AGPL tienen un impacto directo y crítico cuando el software se utiliza o se distribuye a través de la red. Su principal consecuencia es la obligación o no de liberar el código fuente de modificaciones a los usuarios finales.
+
 
 
 # SECCIÓN 3: FICHAS TÉCNICAS
